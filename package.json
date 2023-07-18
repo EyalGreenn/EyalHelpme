@@ -1,0 +1,19 @@
+{
+  "name": "helpme-bot",
+  "version": "1.0.0",
+  "description": "helpme public bot coded by eyalgreen",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "helpme"
+  ],
+  "author": "EyalGreen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security"
+  }
+}
